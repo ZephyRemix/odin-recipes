@@ -1,1 +1,2 @@
 # odin-recipes
+This project is my first actual local environment program for a project instructed by The Odin Project. I expect to be able to write basic HTML code from local environment, and upload a functional simple HTML site into github by the end of this exercise.
